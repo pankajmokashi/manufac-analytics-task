@@ -1,10 +1,12 @@
 # Manufac Analytics Task
 
 ## Maximum and minimum production crops for each year
-![Screenshot 2024-06-24 011003](https://github.com/pankajmokashi/manufac-analytics-task/assets/127533657/9e304f19-fc38-4b0c-93e8-3ef6964a5f7b)
+![1](https://github.com/pankajmokashi/manufac-analytics-task/assets/127533657/78134298-01a9-40e4-ac46-3c501181065c)
 
 ## Average yield and cultivation area for each crop between 1950-2020
-![Screenshot 2024-06-24 011013](https://github.com/pankajmokashi/manufac-analytics-task/assets/127533657/1ae48a67-d13e-4b3c-a887-aa007e63c1d2)
+![2](https://github.com/pankajmokashi/manufac-analytics-task/assets/127533657/099dcfe6-781f-41d9-a465-b79bd4b049c3)
+
+## Netlify link - https://manufac-analytics-task.netlify.app/
 
 ## Project setup
 
